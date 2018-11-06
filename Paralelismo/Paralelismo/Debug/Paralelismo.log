@@ -1,0 +1,4 @@
+﻿  Paralelismo.cpp
+c1xx : warning C4199: não há suporte para a pesquisa de nome de duas fases para C++/CLI, C++/CX, ou OpenMP; use /Zc:twoPhase-
+c:\users\5586658\source\repos\4s-arquiteturaorganizacao-2\paralelismo\paralelismo\paralelismo.cpp(12): warning C4101: 'nucleo': variável local não referenciada
+  Paralelismo.vcxproj -> C:\Users\5586658\Source\Repos\4S-ArquiteturaOrganizacao-2\Paralelismo\Debug\Paralelismo.exe
